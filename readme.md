@@ -22,10 +22,10 @@
 - Automate deployments that **ignite** fast and safely
 
 ### ⚙️ Tools of the trade
-`Go` · `Rust` · `Python` · `Bash`  
-`Linux` · `Kubernetes` · `Docker` · `Nginx`  
-`PostgreSQL` · `Redis` · `Kafka`  
-`Terraform` · `Ansible` · `GitHub Actions`
+`SaltStack` · `Elasticsearch` · `Terraform`  
+`Redis` · `Ansible` · `Cassandra` · `Kubernetes` · `Splunk`  
+`OpenSSL` · `Nginx`  
+`Flask` · `Istio` · `RabbitMQ` · `Envoy`
 
 ### 📈 Recent heat
 - Cut p99 latency by **42%** with adaptive caching
